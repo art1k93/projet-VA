@@ -1,0 +1,29 @@
+{
+  "name": "project-va",
+  "version": "1.0.0",
+  "description": "Web project MBA BI 2015-2017",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/art1k93/project-VA.git"
+  },
+  "keywords": [
+    "Web",
+    "project"
+  ],
+  "author": "Sheiko Artem, Shapoval Valeria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/art1k93/project-VA/issues"
+  },
+  "homepage": "https://github.com/art1k93/project-VA#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "semantic-ui": "^2.1.6"
+  }
+}
